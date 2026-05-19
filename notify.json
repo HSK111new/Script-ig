@@ -1,5 +1,5 @@
 {
   "notify": true,
-  "notify_level": "yellow",
-  "notify_text": "Website ist in der Beta Phase,bitte haltet euch nicht immer an die Website."
+  "notify_level": "green",
+  "notify_text": "Admin Abuse um 19 circa!"
 }
